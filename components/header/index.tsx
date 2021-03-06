@@ -3,9 +3,9 @@ import styles from './header.module.css';
 export default function Header(){
     return(
         <header className={styles.container}>
-            <h1 className={styles.title}>
-                Hey! My Next Website!
-            </h1>
+            <h3 className={styles.title}>
+                Faça compras sem sair de casa!
+            </h3>
         </header>
     )
 };

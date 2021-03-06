@@ -11,7 +11,7 @@ function Home({ posts }:InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <>
       <Head>
-        <title>Home Page!</title>
+        <title>Home</title>
       </Head>
       
       <main>
