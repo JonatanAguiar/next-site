@@ -4,7 +4,7 @@ export default function Header(){
     return(
         <header className={styles.container}>
             <h3 className={styles.title}>
-                Faça compras sem sair de casa!
+                Bem-vindo! Aqui a gente aprende junto!
             </h3>
         </header>
     )
